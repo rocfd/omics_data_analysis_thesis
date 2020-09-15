@@ -2,9 +2,8 @@
 
 ## Description: Use the "charge" function of peptides to generate
 ## two new features:
-	## charge_epitope -> Epitope Molecular Weight
-	## charge_tcr_contact -> TCR Contact Region Molecular Weight
-
+	## charge_epitope -> Epitope Net Charge Status
+	## charge_tcr_contact -> TCR Contact Region Charge
 
 ## Peptides
 library(Peptides)
